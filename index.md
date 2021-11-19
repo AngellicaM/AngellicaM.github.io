@@ -1,11 +1,8 @@
-# Hello! Welcome to Angellica's Webpage
+<!DOCTYPE html>
+<html>
+<head>
 <img src="AngellicaM.png" alt="" width="130" height="180">
 <!---------------------------------------------------About Me Start---------------------------------------------------------->
-## About me
-I am a Senior at Baruch College majoring in Data Analytics. My programming skills are Python, SQL, and R. I am currently a student at CUNY Tech Prep where I am learning in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, machine learning techniques, data science process, and big data.
-
-#### Check Out My Resume:
-
 <style>
 .button {
   display: inline-block;
@@ -44,16 +41,36 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
   color: black; 
   border: 2px solid #008CBA;
 }
+#background1 {
+  border: 10px dotted black;
+  padding: 35px;
+  background: yellow;
+}
 </style>
-<button class="button button1" w-50>
-  <a href="https://github.com/AngellicaM/AngellicaM.github.io/blob/main/Angellica_Resume.docx">Resume</a>
-</button>
+</head>
+<body>
+  <h1>Hello! Welcome to Angellica's Webpage</h1>
+  <h2>About me</h2>
+  <div id="background1">
+   <p> I am a Senior at Baruch College majoring in Data Analytics. My programming skills are Python, SQL, and R. I am currently a student at CUNY Tech Prep where I am learning in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, machine learning techniques, data science process, and big data. </p>
+  </div>
+    
+    
+  <h2>Check Out My Resume:</h2>
+    <button class="button button1" w-50>
+     <a href="https://github.com/AngellicaM/AngellicaM.github.io/blob/main/Angellica_Resume.docx">Resume</a>
+    </button>
 <!---------------------------------------------------About Me End---------------------------------------------------------->
+  <h2>Projects:</h2>
 
-#### Links to LinkedIn and Github:
-<button class="button button3" w-50>
-  <a href="https://www.linkedin.com/in/angellica-munyati/">LinkedIn</a>
-</button>
-<button class="button button2" w-50>
-  <a href="https://github.com/AngellicaM">Github</a>
-</button>
+
+
+  <h2>Links to LinkedIn and Github:</h2>
+    <button class="button button3" w-50>
+      <a href="https://www.linkedin.com/in/angellica-munyati/">LinkedIn</a>
+    </button>
+    <button class="button button2" w-50>
+      <a href="https://github.com/AngellicaM">Github</a>
+    </button>
+</body>
+</html>

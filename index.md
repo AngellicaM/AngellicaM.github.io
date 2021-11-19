@@ -42,7 +42,7 @@
 .button4 {
   background-color: white; 
   color: black; 
-  border: 2px solid #1e90ff;
+  border: 2px solid #ba55d3;
 }
 #background1 {
   border: none;

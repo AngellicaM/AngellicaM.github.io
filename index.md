@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Hello! Welcome to Angellica's Webpage
+![Angellica](https://raw.githubusercontent.com/AngellicaM/AngellicaM.github.io/main/190EC9BD-0E35-4CC4-AFAB-07D9BD01B868_1_201_a.jpeg "Picture of Angellica")
 
 You can use the [editor on GitHub](https://github.com/AngellicaM/AngellicaM.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

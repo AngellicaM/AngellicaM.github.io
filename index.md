@@ -70,7 +70,7 @@
   <h2>Projects:</h2>
   <h3>Stock Statistics Project</h3>
   <div id="background2">
-    <img src="StockPic.png" alt="" width="200" height="180" >
+    <img src="StockPic.png" alt="" width="2000" height="180" >
     <p> In this project I collected data by use beautiful soup in python to webscrape and used stock API's to collect information about different companies by there stock tickers, which gave generated current infomation such as the stock trading price, opening price, and previous closing price.</p>
     <button class="button button1" w-50>
      <a href="https://github.com/AngellicaM/Data-Analytics-Projects/blob/main/Stock_Statistics_Project.py">View Project</a>

@@ -63,7 +63,7 @@
     
   <h2>Check Out My Resume:</h2>
     <button class="button button1" w-50>
-     <a href="https://github.com/AngellicaM/AngellicaM.github.io/blob/main/Angellica_Resume.docx">Resume</a>
+     <a href="https://docs.google.com/document/d/1nDB2dNWwZS8EhB7aedBf3fRSGjR3dDDsqD6FnY1pKhc/edit?usp=sharing">Resume</a>
     </button>
 <!-------------------------------------------------------About Me End---------------------------------------------------------->
 <!-----------------------------------------------------Project Start----------------------------------------------------------->

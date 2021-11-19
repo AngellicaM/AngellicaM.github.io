@@ -11,7 +11,7 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
   position: relative;
   background-color: #4CAF50;
   border: none;
-  font-size: 28px;
+  font-size: 10px;
   color: #FFFFFF;
   padding: 20px;
   width: 200px;

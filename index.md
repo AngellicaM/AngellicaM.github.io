@@ -8,45 +8,38 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
 <head>
 <style>
 .button {
-  position: relative;
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 10px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
   background-color: #4CAF50;
   border: none;
-  font-size: 10px;
-  color: #FFFFFF;
-  padding: 20px;
-  width: 200px;
-  text-align: center;
-  transition-duration: 0.4s;
-  text-decoration: none;
-  overflow: hidden;
-  cursor: pointer;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
 }
 
-.button:after {
-  content: "";
-  background: #f1f1f1;
-  display: block;
-  position: absolute;
-  padding-top: 300%;
-  padding-left: 350%;
-  margin-left: -20px !important;
-  margin-top: -120%;
-  opacity: 0;
-  transition: all 0.8s
-}
+.button:hover {background-color: #3e8e41}
 
-.button:active:after {
-  padding: 0;
-  margin: 0;
-  opacity: 1;
-  transition: 0s
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
 .button1 {
   background-color: white;
   color: black;
-  border: 2px solid #555555;
+  border: 2px solid #e7e7e7;
 }
 .button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+.button3 {
   background-color: white; 
   color: black; 
   border: 2px solid #008CBA;
@@ -59,7 +52,7 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
 <!---------------------------------------------------About Me End---------------------------------------------------------->
 
 #### Links to LinkedIn and Github:
-<button class="button button2" w-50>
+<button class="button button3" w-50>
   <a href="https://www.linkedin.com/in/angellica-munyati/">LinkedIn</a>
 </button>
 <button class="button button2" w-50>

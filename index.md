@@ -41,16 +41,26 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
   opacity: 1;
   transition: 0s
 }
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
 </style>
 </head>
-<button class="button" w-80>
+<button class="button button1" w-80>
   <a href="https://github.com/AngellicaM/AngellicaM.github.io/blob/main/Angellica_Resume.docx">Resume</a>
 </button>
 <!---------------------------------------------------About Me End---------------------------------------------------------->
 
 #### Links to LinkedIn and Github:
-<button class="button" w-80>
-  <a href="https://github.com/AngellicaM/AngellicaM.github.io/blob/main/Angellica_Resume.docx">Resume</a>
+<button class="button button2" w-80>
+  <a href="https://github.com/AngellicaM/AngellicaM.github.io/blob/main/Angellica_Resume.docx">LinkedIn</a>
 </button>
 
 

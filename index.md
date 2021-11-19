@@ -10,7 +10,7 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
 .button {
   display: inline-block;
   padding: 15px 25px;
-  font-size: 16px;
+  font-size: 12px;
   cursor: pointer;
   text-align: center;
   text-decoration: none;
@@ -22,10 +22,10 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
   box-shadow: 0 9px #999;
 }
 
-.button:hover {background-color: #3e8e41}
+.button:hover {background-color: black}
 
 .button:active {
-  background-color: #3e8e41;
+  background-color: black;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }

@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
 <img src="AngellicaM.png" alt="" width="130" height="180">
-<!---------------------------------------------------About Me Start---------------------------------------------------------->
 <style>
 .button {
   display: inline-block;
@@ -42,14 +40,15 @@
   border: 2px solid #008CBA;
 }
 #background1 {
-  border: 10px dotted black;
+  border: 2px dotted black;
   padding: 35px;
-  background: yellow;
+  background: #e0ffff;
 }
 </style>
 </head>
 <body>
   <h1>Hello! Welcome to Angellica's Webpage</h1>
+<!---------------------------------------------------About Me Start---------------------------------------------------------->
   <h2>About me</h2>
   <div id="background1">
    <p> I am a Senior at Baruch College majoring in Data Analytics. My programming skills are Python, SQL, and R. I am currently a student at CUNY Tech Prep where I am learning in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, machine learning techniques, data science process, and big data. </p>
@@ -60,11 +59,12 @@
     <button class="button button1" w-50>
      <a href="https://github.com/AngellicaM/AngellicaM.github.io/blob/main/Angellica_Resume.docx">Resume</a>
     </button>
-<!---------------------------------------------------About Me End---------------------------------------------------------->
+<!-------------------------------------------------------About Me End---------------------------------------------------------->
+<!-----------------------------------------------------Project Start----------------------------------------------------------->
   <h2>Projects:</h2>
 
 
-
+<!------------------------------------------------------Project End------------------------------------------------------------>
   <h2>Links to LinkedIn and Github:</h2>
     <button class="button button3" w-50>
       <a href="https://www.linkedin.com/in/angellica-munyati/">LinkedIn</a>

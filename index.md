@@ -5,6 +5,9 @@
 I am a Senior at Baruch College majoring in Data Analytics. My programming skills are Python, SQL, and R. I am currently a student at CUNY Tech Prep where I am learning in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, machine learning techniques, data science process, and big data.
 
 #### Check Out My Resume:
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 .button {
   background-color: #f4511e;
   border: none;
@@ -19,7 +22,10 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
   text-decoration: none;
   cursor: pointer;
 }
+
 .button:hover {opacity: 1}
+</style>
+</head>
 <button class="button" w-80>
   <a href="https://github.com/AngellicaM/AngellicaM.github.io/blob/main/Angellica_Resume.docx">Resume</a>
 </button>

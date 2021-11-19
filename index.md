@@ -53,13 +53,15 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
 }
 </style>
 </head>
-<button class="button button1" w-80>
+<button class="button button1" w-50>
   <a href="https://github.com/AngellicaM/AngellicaM.github.io/blob/main/Angellica_Resume.docx">Resume</a>
 </button>
 <!---------------------------------------------------About Me End---------------------------------------------------------->
 
 #### Links to LinkedIn and Github:
-<button class="button button2" w-80>
-  <a href="https://github.com/AngellicaM/AngellicaM.github.io/blob/main/Angellica_Resume.docx">LinkedIn</a>
+<button class="button button2" w-50>
+  <a href="https://www.linkedin.com/in/angellica-munyati/">LinkedIn</a>
 </button>
-
+<button class="button button2" w-50>
+  <a href="https://github.com/AngellicaM">Github</a>
+</button>

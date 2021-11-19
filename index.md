@@ -6,24 +6,41 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
 
 #### Check Out My Resume:
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .button {
-  background-color: #f4511e;
+  position: relative;
+  background-color: #4CAF50;
   border: none;
-  color: white;
-  padding: 16px 32px;
+  font-size: 28px;
+  color: #FFFFFF;
+  padding: 20px;
+  width: 200px;
   text-align: center;
-  font-size: 16px;
-  margin: 4px 2px;
-  opacity: 0.6;
-  transition: 0.3s;
-  display: inline-block;
+  transition-duration: 0.4s;
   text-decoration: none;
+  overflow: hidden;
   cursor: pointer;
 }
 
-.button:hover {opacity: 1}
+.button:after {
+  content: "";
+  background: #f1f1f1;
+  display: block;
+  position: absolute;
+  padding-top: 300%;
+  padding-left: 350%;
+  margin-left: -20px !important;
+  margin-top: -120%;
+  opacity: 0;
+  transition: all 0.8s
+}
+
+.button:active:after {
+  padding: 0;
+  margin: 0;
+  opacity: 1;
+  transition: 0s
+}
 </style>
 </head>
 <button class="button" w-80>

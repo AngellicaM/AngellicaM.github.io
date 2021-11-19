@@ -1,5 +1,5 @@
 ## Hello! Welcome to Angellica's Webpage
-![Angellica](AngellicaM.png "Picture of Angellica"){:height="50%" width="50%"}
+<img src="AngellicaM.png" alt="" width="50" height="70">
 
 You can use the [editor on GitHub](https://github.com/AngellicaM/AngellicaM.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

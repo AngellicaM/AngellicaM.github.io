@@ -44,6 +44,12 @@
   padding: 35px;
   background: #e0ffff;
 }
+#background2 {
+  border: 1px solid black;
+  padding: 15px;
+  background: #e0ffff;
+  background-repeat: no-repeat;
+}
 </style>
 </head>
 <body>
@@ -51,7 +57,7 @@
 <!---------------------------------------------------About Me Start---------------------------------------------------------->
   <h2>About me</h2>
   <div id="background1">
-   <p> I am a Senior at Baruch College majoring in Data Analytics. My programming skills are Python, SQL, and R. I am currently a student at CUNY Tech Prep where I am learning in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, machine learning techniques, data science process, and big data. </p>
+    <p> I am a Senior at Baruch College majoring in Data Analytics. My programming skills are Python, SQL, and R. I am currently a student at CUNY Tech Prep where I am learning in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, machine learning techniques, data science process, and big data. </p>
   </div>
     
     
@@ -62,7 +68,10 @@
 <!-------------------------------------------------------About Me End---------------------------------------------------------->
 <!-----------------------------------------------------Project Start----------------------------------------------------------->
   <h2>Projects:</h2>
-
+  <h3>Stock Statistics Project</h3>
+  <div id="background2">
+    <p> In this project I collected data by use beautiful soup in python to webscrape and used stock API's to collect information about different companies by there stock tickers, which gave generated current infomation such as the stock trading price, opening price, and previous closing price.</p>
+  </div>
 
 <!------------------------------------------------------Project End------------------------------------------------------------>
   <h2>Links to LinkedIn and Github:</h2>

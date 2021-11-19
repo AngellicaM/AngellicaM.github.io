@@ -1,5 +1,5 @@
 ## Hello! Welcome to Angellica's Webpage
-<img src="AngellicaM.png" alt="" width="50" height="70">
+<img src="AngellicaM.png" alt="" width="100" height="120">
 
 You can use the [editor on GitHub](https://github.com/AngellicaM/AngellicaM.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 

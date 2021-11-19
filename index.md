@@ -1,6 +1,6 @@
 # Hello! Welcome to Angellica's Webpage
 <img src="AngellicaM.png" alt="" width="130" height="180">
-
+<!---------------------------------------------------About Me Start---------------------------------------------------------->
 ## About me
 I am a Senior at Baruch College majoring in Data Analytics. My programming skills are Python, SQL, and R. I am currently a student at CUNY Tech Prep where I am learning in-demand technologies like Python 3, Jupyter Notebooks, Pandas, Numpy, Scikit-learn, and SQL as well as industry best practices for exploratory data analysis (EDA), feature engineering, data collection and processing, statistical modeling, data visualization, machine learning techniques, data science process, and big data.
 
@@ -8,7 +8,7 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
 <button class="button" w-50>
   <a href="https://github.com/AngellicaM/AngellicaM.github.io/blob/main/Angellica_Resume.docx">Resume</a>
 </button>
-
+<!---------------------------------------------------About Me End---------------------------------------------------------->
 You can use the [editor on GitHub](https://github.com/AngellicaM/AngellicaM.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

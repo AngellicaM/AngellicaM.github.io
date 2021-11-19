@@ -17,10 +17,10 @@
   box-shadow: 0 9px #999;
 }
 
-.button:hover {background-color: black}
+.button:hover {background-color: #b0c4de}
 
 .button:active {
-  background-color: black;
+  background-color: #b0c4de;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }

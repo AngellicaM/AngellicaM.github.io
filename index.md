@@ -40,7 +40,7 @@
   border: 2px solid #008CBA;
 }
 #background1 {
-  border: 2px dotted black;
+  border: none;
   padding: 35px;
   background: #e0ffff;
 }

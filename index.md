@@ -10,12 +10,12 @@ I am a Senior at Baruch College majoring in Data Analytics. My programming skill
 .button {
   display: inline-block;
   padding: 15px 25px;
-  font-size: 10px;
+  font-size: 16px;
   cursor: pointer;
   text-align: center;
   text-decoration: none;
   outline: none;
-  color: #fff;
+  color: white;
   background-color: #4CAF50;
   border: none;
   border-radius: 15px;
